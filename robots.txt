@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exceptiionchan.github.io/sitemap.xml
